@@ -24,7 +24,9 @@ This project implements a basic **Authentication System** and **Role-Based Acces
 
 ## .env file
 MONGODB_URI=mongodb://localhost:27017/rbac_db
+  
 JWT_SECRET=your_very_secret_and_long_random_string_here
+
 PORT=5000
 
 
